@@ -1,0 +1,5 @@
+img#cv-photo {
+    shape-outside: circle(50%); 
+    float: left;
+
+  }

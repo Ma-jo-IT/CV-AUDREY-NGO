@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+/*PHOTO*/
+
+img#cv-photo{
+	clip-path: circle(40%);
+	filter: contrast(200%);
+}
+
+
+/*NAVBAR*/
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 25%;
+	/*background: #333;*/
+	border: 1px #333 solid;
+	height: 100%;
+	overflow: auto;
+	position: fixed;
+	bottom: 0;
+}
+
+
+li a {
+	display: block;
+	/*color: #FFFFFF;*/
+	color: #000000;
+	padding: 30px 25px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+li a:hover{
+	background: #ddd;
+	text-decoration: underline;
+}
+
+main#container{
+	margin-left: 25%;
+	padding: 15px 14px;
+	height: auto;
+}

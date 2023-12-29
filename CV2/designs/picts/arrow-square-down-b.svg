@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect x="86" y="112" width="302" height="282" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 5px;"/>
+  <path d="M 235.5 -338 L 365 -189 L 106 -189 L 235.5 -338 Z" style="stroke: rgb(0, 0, 0);" transform="matrix(1, 0, 0, -1, 0, 0)" bx:shape="triangle 106 -338 259 149 0.5 0 1@be5244e2"/>
+</svg>
